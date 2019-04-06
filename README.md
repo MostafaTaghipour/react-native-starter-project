@@ -31,14 +31,14 @@ $ npm install react-native-rename -g
 $ git clone https://github.com/MostafaTaghipour/react-native-starter-project . && sh setup.sh
 ```
 
-Answer the questions
+- Answer the questions
 
 ![questions](/screenshots/1.png)
 
 
-Wait until the setup of the project and install dependencies are completed
+- Wait until the setup of the project and install dependencies are completed
 
-Enjoy it
+- Enjoy it
 
 
 ## Author
