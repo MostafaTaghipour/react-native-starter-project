@@ -1,4 +1,4 @@
-# React Native Project Starter
+# React Native Starter Project
 
 A template for creating a new React Native project with our preferred project organization and default setting.
 
@@ -21,7 +21,7 @@ Dependencies:
 
 ## Usage
 - Install [React Native](https://facebook.github.io/react-native/docs/getting-started)
-- install [react-native-rename](https://www.npmjs.com/package/react-native-rename)
+- Install [react-native-rename](https://www.npmjs.com/package/react-native-rename)
 ```
 $ npm install react-native-rename -g
 ```
