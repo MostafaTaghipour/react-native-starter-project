@@ -1,0 +1,17 @@
+{
+  "login": {
+    "email": "Email",
+    "password": "Password",
+    "login":"Login"
+  },
+  "home": {
+    "title": "Home",
+    "button_title" : "Go to Details"
+  },
+  "settings": {
+    "title": "Settings"
+  },
+  "details": {
+    "title": "Details"
+  }
+}

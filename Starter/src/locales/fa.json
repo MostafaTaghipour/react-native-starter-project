@@ -1,0 +1,17 @@
+{
+    "login": {
+      "email": "ایمیل",
+      "password": "رمز عبور",
+      "login":"ورود"
+    },
+    "home": {
+      "title": "خانه",
+      "button_title" : "برو به جزئیات"
+    },
+    "settings": {
+      "title": "تنظیمات"
+    },
+    "details": {
+      "title": "جزئیات"
+    }
+  }
